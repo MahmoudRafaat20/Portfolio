@@ -1,0 +1,78 @@
+*{
+    list-style: none;
+   font-family: "Roboto", serif;
+  
+}
+.works ul li{
+    padding:5px 5px;
+}
+
+.Experiences ul li {
+    padding: 20px 15px !important;
+}
+
+.worklist img{
+    width: 420px;
+    height: 350px;
+}
+.progress {
+  width: 70%;
+}
+.progresses {
+    padding:  10px 55px;
+}
+.progresses h5{
+    padding: 0px 20px;
+}
+.home-1{
+    background-image: url('project-assets/img_bg_1-PzvG2r05.jpg');
+}
+.home-2{
+    background-image: url('project-assets/img_bg_2-DzCs5o-0.jpg');
+}
+.timeline {
+    background-color:rgb(242, 243, 247);
+    align-items: center;
+}
+.home img{
+    width: 100%;
+    
+}
+.timeline-head{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.fa-pencil{
+  width: 45px;
+  height: 45px;
+  padding: 14px 14px;
+  color: white;
+  border-radius: 50%;
+}
+
+@media screen and (max-width:400px){
+    *{
+        width: 100%;
+    }
+}
+
+
+.first{
+    background-image: url(project-assets/img_bg_1-PzvG2r05.jpg);
+    width: 1200px;
+    height: 725px;
+    
+}
+.second{
+    background-image: url(project-assets/img_bg_2-DzCs5o-0.jpg);
+    width: 1200px;
+    height: 729px;
+    padding-left:95px ;
+}
+.nav-item:hover{
+    background-color: white;
+    border-radius: 20%;
+}
+
+

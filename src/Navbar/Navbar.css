@@ -1,0 +1,19 @@
+.navbar{
+    width: 235px;
+    height: 100vh !important;
+    background-color: rgb(245, 245, 245) !important;
+}
+.navbar img{
+    margin: 15px 15px;
+}
+.navbar ul{
+    padding: 5px 20px !important;
+}
+.navbar ul li{
+    padding: 10px 0px !important;
+}
+.navbar a{
+    color: black;
+}
+
+
